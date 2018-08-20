@@ -1,0 +1,501 @@
+﻿,Nombre,Apellido,Género,Edad,Clase,Costo,Embarcamiento,Sobrevivió
+0,Braund,Mr. Owen Harris,M,22,3,7.25,Southampton,no
+1,Cumings,Mrs. John Bradley (Florence Briggs Thayer),F,38,1,71.2833,Cherbourg,si
+2,Heikkinen,Miss Laina,F,26,3,7.925,Southampton,si
+3,Futrelle,Mrs. Jacques Heath (Lily May Peel),F,35,1,53.1,Southampton,si
+4,Allen,Mr. William Henry,M,35,3,8.05,Southampton,no
+5,Moran,Mr. James,M,,3,8.4583,Queenstown,no
+6,McCarthy,Mr. Timothy J,M,54,1,51.8625,Southampton,no
+7,Palsson,Master Gosta Leonard,M,2,3,21.075,Southampton,no
+8,Johnson,Mrs. Oscar W (Elisabeth Vilhelmina Berg),F,27,3,11.1333,Southampton,si
+9,Nasser,Mrs. Nicholas (Adele Achem),F,14,2,30.0708,Cherbourg,si
+10,Sandstrom,Miss Marguerite Rut,F,4,3,16.7,Southampton,si
+11,Bonnell,Miss Elizabeth,F,58,1,26.55,Southampton,si
+12,Saundercock,Mr. William Henry,M,20,3,8.05,Southampton,no
+13,Andersson,Mr. Anders Johan,M,39,3,31.275,Southampton,no
+14,Vestrom,Miss Hulda Amanda Adolfina,F,14,3,7.8542,Southampton,no
+15,Hewlett,Mrs. (Mary D Kingcome),F,55,2,16,Southampton,si
+16,Rice,Master Eugene,M,2,3,29.125,Queenstown,no
+17,Williams,Mr. Charles Eugene,M,,2,13,Southampton,si
+18,Vander Planke,Mrs. Julius (Emelia Maria Vandemoortele),F,31,3,18,Southampton,no
+19,Masselmani,Mrs. Fatima,F,,3,7.225,Cherbourg,si
+20,Fynney,Mr. Joseph J,M,35,2,26,Southampton,no
+21,Beesley,Mr. Lawrence,M,34,2,13,Southampton,si
+22,McGowan," Miss Anna ""Annie""",F,15,3,8.0292,Queenstown,si
+23,Sloper,Mr. William Thompson,M,28,1,35.5,Southampton,si
+24,Palsson,Miss Torborg Danira,F,8,3,21.075,Southampton,no
+25,Asplund,Mrs. Carl Oscar (Selma Augusta Emilia Johansson),F,38,3,31.3875,Southampton,si
+26,Emir,Mr. Farred Chehab,M,,3,7.225,Cherbourg,no
+27,Fortune,Mr. Charles Alexander,M,19,1,263,Southampton,no
+28,O'Dwyer," Miss Ellen ""Nellie""",F,,3,7.8792,Queenstown,si
+29,Todoroff,Mr. Lalio,M,,3,7.8958,Southampton,no
+30,Uruchurtu,Don. Manuel E,M,40,1,27.7208,Cherbourg,no
+31,Spencer,Mrs. William Augustus (Marie Eugenie),F,,1,146.5208,Cherbourg,si
+32,Glynn,Miss Mary Agatha,F,,3,7.75,Queenstown,si
+33,Wheadon,Mr. Edward H,M,66,2,10.5,Southampton,no
+34,Meyer,Mr. Edgar Joseph,M,28,1,82.1708,Cherbourg,no
+35,Holverson,Mr. Alexander Oskar,M,42,1,52,Southampton,no
+36,Mamee,Mr. Hanna,M,,3,7.2292,Cherbourg,si
+37,Cann,Mr. Ernest Charles,M,21,3,8.05,Southampton,no
+38,Vander Planke,Miss Augusta Maria,F,18,3,18,Southampton,no
+39,Nicola-Yarred,Miss Jamila,F,14,3,11.2417,Cherbourg,si
+40,Ahlin,Mrs. Johan (Johanna Persdotter Larsson),F,40,3,9.475,Southampton,no
+41,Turpin,Mrs. William John Robert (Dorothy Ann Wonnacott),F,27,2,21,Southampton,no
+42,Kraeff,Mr. Theodor,M,,3,7.8958,Cherbourg,no
+43,Laroche,Miss Simonne Marie Anne Andree,F,3,2,41.5792,Cherbourg,si
+44,Devaney,Miss Margaret Delia,F,19,3,7.8792,Queenstown,si
+45,Rogers,Mr. William John,M,,3,8.05,Southampton,no
+46,Lennon,Mr. Denis,M,,3,15.5,Queenstown,no
+47,O'Driscoll,Miss Bridget,F,,3,7.75,Queenstown,si
+48,Samaan,Mr. Youssef,M,,3,21.6792,Cherbourg,no
+49,Arnold-Franchi,Mrs. Josef (Josefine Franchi),F,18,3,17.8,Southampton,no
+50,Panula,Master Juha Niilo,M,7,3,39.6875,Southampton,no
+51,Nosworthy,Mr. Richard Cater,M,21,3,7.8,Southampton,no
+52,Harper,Mrs. Henry Sleeper (Myna Haxtun),F,49,1,76.7292,Cherbourg,si
+53,Faunthorpe,Mrs. Lizzie (Elizabeth Anne Wilkinson),F,29,2,26,Southampton,si
+54,Ostby,Mr. Engelhart Cornelius,M,65,1,61.9792,Cherbourg,no
+55,Woolner,Mr. Hugh,M,,1,35.5,Southampton,si
+56,Rugg,Miss Emily,F,21,2,10.5,Southampton,si
+57,Novel,Mr. Mansouer,M,28.5,3,7.2292,Cherbourg,no
+58,West,Miss Constance Mirium,F,5,2,27.75,Southampton,si
+59,Goodwin,Master William Frederick,M,11,3,46.9,Southampton,no
+60,Sirayanian,Mr. Orsen,M,22,3,7.2292,Cherbourg,no
+61,Icard,Miss Amelie,F,38,1,80,Southampton,si
+62,Harris,Mr. Henry Birkhardt,M,45,1,83.475,Southampton,no
+63,Skoog,Master Harald,M,4,3,27.9,Southampton,no
+64,Stewart,Mr. Albert A,M,,1,27.7208,Cherbourg,no
+65,Moubarek,Master Gerios,M,,3,15.2458,Cherbourg,si
+66,Nye,Mrs. (Elizabeth Ramell),F,29,2,10.5,Southampton,si
+67,Crease,Mr. Ernest James,M,19,3,8.1583,Southampton,no
+68,Andersson,Miss Erna Alexandra,F,17,3,7.925,Southampton,si
+69,Kink,Mr. Vincenz,M,26,3,8.6625,Southampton,no
+70,Jenkin,Mr. Stephen Curnow,M,32,2,10.5,Southampton,no
+71,Goodwin,Miss Lillian Amy,F,16,3,46.9,Southampton,no
+72,Hood,Mr. Ambrose Jr,M,21,2,73.5,Southampton,no
+73,Chronopoulos,Mr. Apostolos,M,26,3,14.4542,Cherbourg,no
+74,Bing,Mr. Lee,M,32,3,56.4958,Southampton,si
+75,Moen,Mr. Sigurd Hansen,M,25,3,7.65,Southampton,no
+76,Staneff,Mr. Ivan,M,,3,7.8958,Southampton,no
+77,Moutal,Mr. Rahamin Haim,M,,3,8.05,Southampton,no
+78,Caldwell,Master Alden Gates,M,0.83,2,29,Southampton,si
+79,Dowdell,Miss Elizabeth,F,30,3,12.475,Southampton,si
+80,Waelens,Mr. Achille,M,22,3,9,Southampton,no
+81,Sheerlinck,Mr. Jan Baptist,M,29,3,9.5,Southampton,si
+82,McDermott,Miss Brigdet Delia,F,,3,7.7875,Queenstown,si
+83,Carrau,Mr. Francisco M,M,28,1,47.1,Southampton,no
+84,Ilett,Miss Bertha,F,17,2,10.5,Southampton,si
+85,Backstrom,Mrs. Karl Alfred (Maria Mathilda Gustafsson),F,33,3,15.85,Southampton,si
+86,Ford,Mr. William Neal,M,16,3,34.375,Southampton,no
+87,Slocovski,Mr. Selman Francis,M,,3,8.05,Southampton,no
+88,Fortune,Miss Mabel Helen,F,23,1,263,Southampton,si
+89,Celotti,Mr. Francesco,M,24,3,8.05,Southampton,no
+90,Christmann,Mr. Emil,M,29,3,8.05,Southampton,no
+91,Andreasson,Mr. Paul Edvin,M,20,3,7.8542,Southampton,no
+92,Chaffee,Mr. Herbert Fuller,M,46,1,61.175,Southampton,no
+93,Dean,Mr. Bertram Frank,M,26,3,20.575,Southampton,no
+94,Coxon,Mr. Daniel,M,59,3,7.25,Southampton,no
+95,Shorney,Mr. Charles Joseph,M,,3,8.05,Southampton,no
+96,Goldschmidt,Mr. George B,M,71,1,34.6542,Cherbourg,no
+97,Greenfield,Mr. William Bertram,M,23,1,63.3583,Cherbourg,si
+98,Doling,Mrs. John T (Ada Julia Bone),F,34,2,23,Southampton,si
+99,Kantor,Mr. Sinai,M,34,2,26,Southampton,no
+100,Petranec,Miss Matilda,F,28,3,7.8958,Southampton,no
+101,Petroff," Mr. Pastcho (""Pentcho"")",M,,3,7.8958,Southampton,no
+102,White,Mr. Richard Frasar,M,21,1,77.2875,Southampton,no
+103,Johansson,Mr. Gustaf Joel,M,33,3,8.6542,Southampton,no
+104,Gustafsson,Mr. Anders Vilhelm,M,37,3,7.925,Southampton,no
+105,Mionoff,Mr. Stoytcho,M,28,3,7.8958,Southampton,no
+106,Salkjelsvik,Miss Anna Kristine,F,21,3,7.65,Southampton,si
+107,Moss,Mr. Albert Johan,M,,3,7.775,Southampton,si
+108,Rekic,Mr. Tido,M,38,3,7.8958,Southampton,no
+109,Moran,Miss Bertha,F,,3,24.15,Queenstown,si
+110,Porter,Mr. Walter Chamberlain,M,47,1,52,Southampton,no
+111,Zabour,Miss Hileni,F,14.5,3,14.4542,Cherbourg,no
+112,Barton,Mr. David John,M,22,3,8.05,Southampton,no
+113,Jussila,Miss Katriina,F,20,3,9.825,Southampton,no
+114,Attalah,Miss Malake,F,17,3,14.4583,Cherbourg,no
+115,Pekoniemi,Mr. Edvard,M,21,3,7.925,Southampton,no
+116,Connors,Mr. Patrick,M,70.5,3,7.75,Queenstown,no
+117,Turpin,Mr. William John Robert,M,29,2,21,Southampton,no
+118,Baxter,Mr. Quigg Edmond,M,24,1,247.5208,Cherbourg,no
+119,Andersson,Miss Ellis Anna Maria,F,2,3,31.275,Southampton,no
+120,Hickman,Mr. Stanley George,M,21,2,73.5,Southampton,no
+121,Moore,Mr. Leonard Charles,M,,3,8.05,Southampton,no
+122,Nasser,Mr. Nicholas,M,32.5,2,30.0708,Cherbourg,no
+123,Webber,Miss Susan,F,32.5,2,13,Southampton,si
+124,White,Mr. Percival Wayland,M,54,1,77.2875,Southampton,no
+125,Nicola-Yarred,Master Elias,M,12,3,11.2417,Cherbourg,si
+126,McMahon,Mr. Martin,M,,3,7.75,Queenstown,no
+127,Madsen,Mr. Fridtjof Arne,M,24,3,7.1417,Southampton,si
+128,Peter,Miss Anna,F,,3,22.3583,Cherbourg,si
+129,Ekstrom,Mr. Johan,M,45,3,6.975,Southampton,no
+130,Drazenoic,Mr. Jozef,M,33,3,7.8958,Cherbourg,no
+131,Coelho,Mr. Domingos Fernandeo,M,20,3,7.05,Southampton,no
+132,Robins,Mrs. Alexander A (Grace Charity Laury),F,47,3,14.5,Southampton,no
+133,Weisz,Mrs. Leopold (Mathilde Francoise Pede),F,29,2,26,Southampton,si
+134,Sobey,Mr. Samuel James Hayden,M,25,2,13,Southampton,no
+135,Richard,Mr. Emile,M,23,2,15.0458,Cherbourg,no
+136,Newsom,Miss Helen Monypeny,F,19,1,26.2833,Southampton,si
+137,Futrelle,Mr. Jacques Heath,M,37,1,53.1,Southampton,no
+138,Osen,Mr. Olaf Elon,M,16,3,9.2167,Southampton,no
+139,Giglio,Mr. Victor,M,24,1,79.2,Cherbourg,no
+140,Boulos,Mrs. Joseph (Sultana),F,,3,15.2458,Cherbourg,no
+141,Nysten,Miss Anna Sofia,F,22,3,7.75,Southampton,si
+142,Hakkarainen,Mrs. Pekka Pietari (Elin Matilda Dolck),F,24,3,15.85,Southampton,si
+143,Burke,Mr. Jeremiah,M,19,3,6.75,Queenstown,no
+144,Andrew,Mr. Edgardo Samuel,M,18,2,11.5,Southampton,no
+145,Nicholls,Mr. Joseph Charles,M,19,2,36.75,Southampton,no
+146,Andersson," Mr. August Edvard (""Wennerstrom"")",M,27,3,7.7958,Southampton,si
+147,Ford," Miss Robina Maggie ""Ruby""",F,9,3,34.375,Southampton,no
+148,Navratil," Mr. Michel (""Louis M Hoffman"")",M,36.5,2,26,Southampton,no
+149,Byles,Rev. Thomas Roussel Davids,M,42,2,13,Southampton,no
+150,Bateman,Rev. Robert James,M,51,2,12.525,Southampton,no
+151,Pears,Mrs. Thomas (Edith Wearne),F,22,1,66.6,Southampton,si
+152,Meo,Mr. Alfonzo,M,55.5,3,8.05,Southampton,no
+153,van Billiard,Mr. Austin Blyler,M,40.5,3,14.5,Southampton,no
+154,Olsen,Mr. Ole Martin,M,,3,7.3125,Southampton,no
+155,Williams,Mr. Charles Duane,M,51,1,61.3792,Cherbourg,no
+156,Gilnagh," Miss Katherine ""Katie""",F,16,3,7.7333,Queenstown,si
+157,Corn,Mr. Harry,M,30,3,8.05,Southampton,no
+158,Smiljanic,Mr. Mile,M,,3,8.6625,Southampton,no
+159,Sage,Master Thomas Henry,M,,3,69.55,Southampton,no
+160,Cribb,Mr. John Hatfield,M,44,3,16.1,Southampton,no
+161,Watt," Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",F,40,2,15.75,Southampton,si
+162,Bengtsson,Mr. John Viktor,M,26,3,7.775,Southampton,no
+163,Calic,Mr. Jovo,M,17,3,8.6625,Southampton,no
+164,Panula,Master Eino Viljami,M,1,3,39.6875,Southampton,no
+165,Goldsmith," Master Frank John William ""Frankie""",M,9,3,20.525,Southampton,si
+166,Chibnall,Mrs. (Edith Martha Bowerman),F,,1,55,Southampton,si
+167,Skoog,Mrs. William (Anna Bernhardina Karlsson),F,45,3,27.9,Southampton,no
+168,Baumann,Mr. John D,M,,1,25.925,Southampton,no
+169,Ling,Mr. Lee,M,28,3,56.4958,Southampton,no
+170,Van der hoef,Mr. Wyckoff,M,61,1,33.5,Southampton,no
+171,Rice,Master Arthur,M,4,3,29.125,Queenstown,no
+172,Johnson,Miss Eleanor Ileen,F,1,3,11.1333,Southampton,si
+173,Sivola,Mr. Antti Wilhelm,M,21,3,7.925,Southampton,no
+174,Smith,Mr. James Clinch,M,56,1,30.6958,Cherbourg,no
+175,Klasen,Mr. Klas Albin,M,18,3,7.8542,Southampton,no
+176,Lefebre,Master Henry Forbes,M,,3,25.4667,Southampton,no
+177,Isham,Miss Ann Elizabeth,F,50,1,28.7125,Cherbourg,no
+178,Hale,Mr. Reginald,M,30,2,13,Southampton,no
+179,Leonard,Mr. Lionel,M,36,3,0,Southampton,no
+180,Sage,Miss Constance Gladys,F,,3,69.55,Southampton,no
+181,Pernot,Mr. Rene,M,,2,15.05,Cherbourg,no
+182,Asplund,Master Clarence Gustaf Hugo,M,9,3,31.3875,Southampton,no
+183,Becker,Master Richard F,M,1,2,39,Southampton,si
+184,Kink-Heilmann,Miss Luise Gretchen,F,4,3,22.025,Southampton,si
+185,Rood,Mr. Hugh Roscoe,M,,1,50,Southampton,no
+186,O'Brien," Mrs. Thomas (Johanna ""Hannah"" Godfrey)",F,,3,15.5,Queenstown,si
+187,Romaine," Mr. Charles Hallace (""Mr C Rolmane"")",M,45,1,26.55,Southampton,si
+188,Bourke,Mr. John,M,40,3,15.5,Queenstown,no
+189,Turcin,Mr. Stjepan,M,36,3,7.8958,Southampton,no
+190,Pinsky,Mrs. (Rosa),F,32,2,13,Southampton,si
+191,Carbines,Mr. William,M,19,2,13,Southampton,no
+192,Andersen-Jensen,Miss Carla Christine Nielsine,F,19,3,7.8542,Southampton,si
+193,Navratil,Master Michel M,M,3,2,26,Southampton,si
+194,Brown,Mrs. James Joseph (Margaret Tobin),F,44,1,27.7208,Cherbourg,si
+195,Lurette,Miss Elise,F,58,1,146.5208,Cherbourg,si
+196,Mernagh,Mr. Robert,M,,3,7.75,Queenstown,no
+197,Olsen,Mr. Karl Siegwart Andreas,M,42,3,8.4042,Southampton,no
+198,Madigan," Miss Margaret ""Maggie""",F,,3,7.75,Queenstown,si
+199,Yrois," Miss Henriette (""Mrs Harbeck"")",F,24,2,13,Southampton,no
+200,Vande Walle,Mr. Nestor Cyriel,M,28,3,9.5,Southampton,no
+201,Sage,Mr. Frederick,M,,3,69.55,Southampton,no
+202,Johanson,Mr. Jakob Alfred,M,34,3,6.4958,Southampton,no
+203,Youseff,Mr. Gerious,M,45.5,3,7.225,Cherbourg,no
+204,Cohen," Mr. Gurshon ""Gus""",M,18,3,8.05,Southampton,si
+205,Strom,Miss Telma Matilda,F,2,3,10.4625,Southampton,no
+206,Backstrom,Mr. Karl Alfred,M,32,3,15.85,Southampton,no
+207,Albimona,Mr. Nassef Cassem,M,26,3,18.7875,Cherbourg,si
+208,Carr," Miss Helen ""Ellen""",F,16,3,7.75,Queenstown,si
+209,Blank,Mr. Henry,M,40,1,31,Cherbourg,si
+210,Ali,Mr. Ahmed,M,24,3,7.05,Southampton,no
+211,Cameron,Miss Clear Annie,F,35,2,21,Southampton,si
+212,Perkin,Mr. John Henry,M,22,3,7.25,Southampton,no
+213,Givard,Mr. Hans Kristensen,M,30,2,13,Southampton,no
+214,Kiernan,Mr. Philip,M,,3,7.75,Queenstown,no
+215,Newell,Miss Madeleine,F,31,1,113.275,Cherbourg,si
+216,Honkanen,Miss Eliina,F,27,3,7.925,Southampton,si
+217,Jacobsohn,Mr. Sidney Samuel,M,42,2,27,Southampton,no
+218,Bazzani,Miss Albina,F,32,1,76.2917,Cherbourg,si
+219,Harris,Mr. Walter,M,30,2,10.5,Southampton,no
+220,Sunderland,Mr. Victor Francis,M,16,3,8.05,Southampton,si
+221,Bracken,Mr. James H,M,27,2,13,Southampton,no
+222,Green,Mr. George Henry,M,51,3,8.05,Southampton,no
+223,Nenkoff,Mr. Christo,M,,3,7.8958,Southampton,no
+224,Hoyt,Mr. Frederick Maxfield,M,38,1,90,Southampton,si
+225,Berglund,Mr. Karl Ivar Sven,M,22,3,9.35,Southampton,no
+226,Mellors,Mr. William John,M,19,2,10.5,Southampton,si
+227,Lovell," Mr. John Hall (""Henry"")",M,20.5,3,7.25,Southampton,no
+228,Fahlstrom,Mr. Arne Jonas,M,18,2,13,Southampton,no
+229,Lefebre,Miss Mathilde,F,,3,25.4667,Southampton,no
+230,Harris,Mrs. Henry Birkhardt (Irene Wallach),F,35,1,83.475,Southampton,si
+231,Larsson,Mr. Bengt Edvin,M,29,3,7.775,Southampton,no
+232,Sjostedt,Mr. Ernst Adolf,M,59,2,13.5,Southampton,no
+233,Asplund,Miss Lillian Gertrud,F,5,3,31.3875,Southampton,si
+234,Leyson,Mr. Robert William Norman,M,24,2,10.5,Southampton,no
+235,Harknett,Miss Alice Phoebe,F,,3,7.55,Southampton,no
+236,Hold,Mr. Stephen,M,44,2,26,Southampton,no
+237,Collyer," Miss Marjorie ""Lottie""",F,8,2,26.25,Southampton,si
+238,Pengelly,Mr. Frederick William,M,19,2,10.5,Southampton,no
+239,Hunt,Mr. George Henry,M,33,2,12.275,Southampton,no
+240,Zabour,Miss Thamine,F,,3,14.4542,Cherbourg,no
+241,Murphy," Miss Katherine ""Kate""",F,,3,15.5,Queenstown,si
+242,Coleridge,Mr. Reginald Charles,M,29,2,10.5,Southampton,no
+243,Maenpaa,Mr. Matti Alexanteri,M,22,3,7.125,Southampton,no
+244,Attalah,Mr. Sleiman,M,30,3,7.225,Cherbourg,no
+245,Minahan,Dr. William Edward,M,44,1,90,Queenstown,no
+246,Lindahl,Miss Agda Thorilda Viktoria,F,25,3,7.775,Southampton,no
+247,Hamalainen,Mrs. William (Anna),F,24,2,14.5,Southampton,si
+248,Beckwith,Mr. Richard Leonard,M,37,1,52.5542,Southampton,si
+249,Carter,Rev. Ernest Courtenay,M,54,2,26,Southampton,no
+250,Reed,Mr. James George,M,,3,7.25,Southampton,no
+251,Strom,Mrs. Wilhelm (Elna Matilda Persson),F,29,3,10.4625,Southampton,no
+252,Stead,Mr. William Thomas,M,62,1,26.55,Southampton,no
+253,Lobb,Mr. William Arthur,M,30,3,16.1,Southampton,no
+254,Rosblom,Mrs. Viktor (Helena Wilhelmina),F,41,3,20.2125,Southampton,no
+255,Touma,Mrs. Darwis (Hanne Youssef Razi),F,29,3,15.2458,Cherbourg,si
+256,Thorne,Mrs. Gertrude Maybelle,F,,1,79.2,Cherbourg,si
+257,Cherry,Miss Gladys,F,30,1,86.5,Southampton,si
+258,Ward,Miss Anna,F,35,1,512.3292,Cherbourg,si
+259,Parrish,Mrs. (Lutie Davis),F,50,2,26,Southampton,si
+260,Smith,Mr. Thomas,M,,3,7.75,Queenstown,no
+261,Asplund,Master Edvin Rojj Felix,M,3,3,31.3875,Southampton,si
+262,Taussig,Mr. Emil,M,52,1,79.65,Southampton,no
+263,Harrison,Mr. William,M,40,1,0,Southampton,no
+264,Henry,Miss Delia,F,,3,7.75,Queenstown,no
+265,Reeves,Mr. David,M,36,2,10.5,Southampton,no
+266,Panula,Mr. Ernesti Arvid,M,16,3,39.6875,Southampton,no
+267,Persson,Mr. Ernst Ulrik,M,25,3,7.775,Southampton,si
+268,Graham,Mrs. William Thompson (Edith Junkins),F,58,1,153.4625,Southampton,si
+269,Bissette,Miss Amelia,F,35,1,135.6333,Southampton,si
+270,Cairns,Mr. Alexander,M,,1,31,Southampton,no
+271,Tornquist,Mr. William Henry,M,25,3,0,Southampton,si
+272,Mellinger,Mrs. (Elizabeth Anne Maidment),F,41,2,19.5,Southampton,si
+273,Natsch,Mr. Charles H,M,37,1,29.7,Cherbourg,no
+274,Healy," Miss Hanora ""Nora""",F,,3,7.75,Queenstown,si
+275,Andrews,Miss Kornelia Theodosia,F,63,1,77.9583,Southampton,si
+276,Lindblom,Miss Augusta Charlotta,F,45,3,7.75,Southampton,no
+277,Parkes," Mr. Francis ""Frank""",M,,2,0,Southampton,no
+278,Rice,Master Eric,M,7,3,29.125,Queenstown,no
+279,Abbott,Mrs. Stanton (Rosa Hunt),F,35,3,20.25,Southampton,si
+280,Duane,Mr. Frank,M,65,3,7.75,Queenstown,no
+281,Olsson,Mr. Nils Johan Goransson,M,28,3,7.8542,Southampton,no
+282,de Pelsmaeker,Mr. Alfons,M,16,3,9.5,Southampton,no
+283,Dorking,Mr. Edward Arthur,M,19,3,8.05,Southampton,si
+284,Smith,Mr. Richard William,M,,1,26,Southampton,no
+285,Stankovic,Mr. Ivan,M,33,3,8.6625,Cherbourg,no
+286,de Mulder,Mr. Theodore,M,30,3,9.5,Southampton,si
+287,Naidenoff,Mr. Penko,M,22,3,7.8958,Southampton,no
+288,Hosono,Mr. Masabumi,M,42,2,13,Southampton,si
+289,Connolly,Miss Kate,F,22,3,7.75,Queenstown,si
+290,Barber," Miss Ellen ""Nellie""",F,26,1,78.85,Southampton,si
+291,Bishop,Mrs. Dickinson H (Helen Walton),F,19,1,91.0792,Cherbourg,si
+292,Levy,Mr. Rene Jacques,M,36,2,12.875,Cherbourg,no
+293,Haas,Miss Aloisia,F,24,3,8.85,Southampton,no
+294,Mineff,Mr. Ivan,M,24,3,7.8958,Southampton,no
+295,Lewy,Mr. Ervin G,M,,1,27.7208,Cherbourg,no
+296,Hanna,Mr. Mansour,M,23.5,3,7.2292,Cherbourg,no
+297,Allison,Miss Helen Loraine,F,2,1,151.55,Southampton,no
+298,Saalfeld,Mr. Adolphe,M,,1,30.5,Southampton,si
+299,Baxter,Mrs. James (Helene DeLaudeniere Chaput),F,50,1,247.5208,Cherbourg,si
+300,Kelly," Miss Anna Katherine ""Annie Kate""",F,,3,7.75,Queenstown,si
+301,McCoy,Mr. Bernard,M,,3,23.25,Queenstown,si
+302,Johnson,Mr. William Cahoone Jr,M,19,3,0,Southampton,no
+303,Keane,Miss Nora A,F,,2,12.35,Queenstown,si
+304,Williams," Mr. Howard Hugh ""Harry""",M,,3,8.05,Southampton,no
+305,Allison,Master Hudson Trevor,M,0.92,1,151.55,Southampton,si
+306,Fleming,Miss Margaret,F,,1,110.8833,Cherbourg,si
+307,Penasco y Castellana,Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),F,17,1,108.9,Cherbourg,si
+308,Abelson,Mr. Samuel,M,30,2,24,Cherbourg,no
+309,Francatelli,Miss Laura Mabel,F,30,1,56.9292,Cherbourg,si
+310,Hays,Miss Margaret Bechstein,F,24,1,83.1583,Cherbourg,si
+311,Ryerson,Miss Emily Borie,F,18,1,262.375,Cherbourg,si
+312,Lahtinen,Mrs. William (Anna Sylfven),F,26,2,26,Southampton,no
+313,Hendekovic,Mr. Ignjac,M,28,3,7.8958,Southampton,no
+314,Hart,Mr. Benjamin,M,43,2,26.25,Southampton,no
+315,Nilsson,Miss Helmina Josefina,F,26,3,7.8542,Southampton,si
+316,Kantor,Mrs. Sinai (Miriam Sternin),F,24,2,26,Southampton,si
+317,Moraweck,Dr. Ernest,M,54,2,14,Southampton,no
+318,Wick,Miss Mary Natalie,F,31,1,164.8667,Southampton,si
+319,Spedden,Mrs. Frederic Oakley (Margaretta Corning Stone),F,40,1,134.5,Cherbourg,si
+320,Dennis,Mr. Samuel,M,22,3,7.25,Southampton,no
+321,Danoff,Mr. Yoto,M,27,3,7.8958,Southampton,no
+322,Slayter,Miss Hilda Mary,F,30,2,12.35,Queenstown,si
+323,Caldwell,Mrs. Albert Francis (Sylvia Mae Harbaugh),F,22,2,29,Southampton,si
+324,Sage,Mr. George John Jr,M,,3,69.55,Southampton,no
+325,Young,Miss Marie Grice,F,36,1,135.6333,Cherbourg,si
+326,Nysveen,Mr. Johan Hansen,M,61,3,6.2375,Southampton,no
+327,Ball,Mrs. (Ada E Hall),F,36,2,13,Southampton,si
+328,Goldsmith,Mrs. Frank John (Emily Alice Brown),F,31,3,20.525,Southampton,si
+329,Hippach,Miss Jean Gertrude,F,16,1,57.9792,Cherbourg,si
+330,McCoy,Miss Agnes,F,,3,23.25,Queenstown,si
+331,Partner,Mr. Austen,M,45.5,1,28.5,Southampton,no
+332,Graham,Mr. George Edward,M,38,1,153.4625,Southampton,no
+333,Vander Planke,Mr. Leo Edmondus,M,16,3,18,Southampton,no
+334,Frauenthal,Mrs. Henry William (Clara Heinsheimer),F,,1,133.65,Southampton,si
+335,Denkoff,Mr. Mitto,M,,3,7.8958,Southampton,no
+336,Pears,Mr. Thomas Clinton,M,29,1,66.6,Southampton,no
+337,Burns,Miss Elizabeth Margaret,F,41,1,134.5,Cherbourg,si
+338,Dahl,Mr. Karl Edwart,M,45,3,8.05,Southampton,si
+339,Blackwell,Mr. Stephen Weart,M,45,1,35.5,Southampton,no
+340,Navratil,Master Edmond Roger,M,2,2,26,Southampton,si
+341,Fortune,Miss Alice Elizabeth,F,24,1,263,Southampton,si
+342,Collander,Mr. Erik Gustaf,M,28,2,13,Southampton,no
+343,Sedgwick,Mr. Charles Frederick Waddington,M,25,2,13,Southampton,no
+344,Fox,Mr. Stanley Hubert,M,36,2,13,Southampton,no
+345,Brown," Miss Amelia ""Mildred""",F,24,2,13,Southampton,si
+346,Smith,Miss Marion Elsie,F,40,2,13,Southampton,si
+347,Davison,Mrs. Thomas Henry (Mary E Finck),F,,3,16.1,Southampton,si
+348,Coutts," Master William Loch ""William""",M,3,3,15.9,Southampton,si
+349,Dimic,Mr. Jovan,M,42,3,8.6625,Southampton,no
+350,Odahl,Mr. Nils Martin,M,23,3,9.225,Southampton,no
+351,Williams-Lambert,Mr. Fletcher Fellows,M,,1,35,Southampton,no
+352,Elias,Mr. Tannous,M,15,3,7.2292,Cherbourg,no
+353,Arnold-Franchi,Mr. Josef,M,25,3,17.8,Southampton,no
+354,Yousif,Mr. Wazli,M,,3,7.225,Cherbourg,no
+355,Vanden Steen,Mr. Leo Peter,M,28,3,9.5,Southampton,no
+356,Bowerman,Miss Elsie Edith,F,22,1,55,Southampton,si
+357,Funk,Miss Annie Clemmer,F,38,2,13,Southampton,no
+358,McGovern,Miss Mary,F,,3,7.8792,Queenstown,si
+359,Mockler," Miss Helen Mary ""Ellie""",F,,3,7.8792,Queenstown,si
+360,Skoog,Mr. Wilhelm,M,40,3,27.9,Southampton,no
+361,del Carlo,Mr. Sebastiano,M,29,2,27.7208,Cherbourg,no
+362,Barbara,Mrs. (Catherine David),F,45,3,14.4542,Cherbourg,no
+363,Asim,Mr. Adola,M,35,3,7.05,Southampton,no
+364,O'Brien,Mr. Thomas,M,,3,15.5,Queenstown,no
+365,Adahl,Mr. Mauritz Nils Martin,M,30,3,7.25,Southampton,no
+366,Warren,Mrs. Frank Manley (Anna Sophia Atkinson),F,60,1,75.25,Cherbourg,si
+367,Moussa,Mrs. (Mantoura Boulos),F,,3,7.2292,Cherbourg,si
+368,Jermyn,Miss Annie,F,,3,7.75,Queenstown,si
+369,Aubart,Mme. Leontine Pauline,F,24,1,69.3,Cherbourg,si
+370,Harder,Mr. George Achilles,M,25,1,55.4417,Cherbourg,si
+371,Wiklund,Mr. Jakob Alfred,M,18,3,6.4958,Southampton,no
+372,Beavan,Mr. William Thomas,M,19,3,8.05,Southampton,no
+373,Ringhini,Mr. Sante,M,22,1,135.6333,Cherbourg,no
+374,Palsson,Miss Stina Viola,F,3,3,21.075,Southampton,no
+375,Meyer,Mrs. Edgar Joseph (Leila Saks),F,,1,82.1708,Cherbourg,si
+376,Landergren,Miss Aurora Adelia,F,22,3,7.25,Southampton,si
+377,Widener,Mr. Harry Elkins,M,27,1,211.5,Cherbourg,no
+378,Betros,Mr. Tannous,M,20,3,4.0125,Cherbourg,no
+379,Gustafsson,Mr. Karl Gideon,M,19,3,7.775,Southampton,no
+380,Bidois,Miss Rosalie,F,42,1,227.525,Cherbourg,si
+381,Nakid," Miss Maria (""Mary"")",F,1,3,15.7417,Cherbourg,si
+382,Tikkanen,Mr. Juho,M,32,3,7.925,Southampton,no
+383,Holverson,Mrs. Alexander Oskar (Mary Aline Towner),F,35,1,52,Southampton,si
+384,Plotcharsky,Mr. Vasil,M,,3,7.8958,Southampton,no
+385,Davies,Mr. Charles Henry,M,18,2,73.5,Southampton,no
+386,Goodwin,Master Sidney Leonard,M,1,3,46.9,Southampton,no
+387,Buss,Miss Kate,F,36,2,13,Southampton,si
+388,Sadlier,Mr. Matthew,M,,3,7.7292,Queenstown,no
+389,Lehmann,Miss Bertha,F,17,2,12,Cherbourg,si
+390,Carter,Mr. William Ernest,M,36,1,120,Southampton,si
+391,Jansson,Mr. Carl Olof,M,21,3,7.7958,Southampton,si
+392,Gustafsson,Mr. Johan Birger,M,28,3,7.925,Southampton,no
+393,Newell,Miss Marjorie,F,23,1,113.275,Cherbourg,si
+394,Sandstrom,Mrs. Hjalmar (Agnes Charlotta Bengtsson),F,24,3,16.7,Southampton,si
+395,Johansson,Mr. Erik,M,22,3,7.7958,Southampton,no
+396,Olsson,Miss Elina,F,31,3,7.8542,Southampton,no
+397,McKane,Mr. Peter David,M,46,2,26,Southampton,no
+398,Pain,Dr. Alfred,M,23,2,10.5,Southampton,no
+399,Trout,Mrs. William H (Jessie L),F,28,2,12.65,Southampton,si
+400,Niskanen,Mr. Juha,M,39,3,7.925,Southampton,si
+401,Adams,Mr. John,M,26,3,8.05,Southampton,no
+402,Jussila,Miss Mari Aina,F,21,3,9.825,Southampton,no
+403,Hakkarainen,Mr. Pekka Pietari,M,28,3,15.85,Southampton,no
+404,Oreskovic,Miss Marija,F,20,3,8.6625,Southampton,no
+405,Gale,Mr. Shadrach,M,34,2,21,Southampton,no
+406,Widegren,Mr. Carl/Charles Peter,M,51,3,7.75,Southampton,no
+407,Richards,Master William Rowe,M,3,2,18.75,Southampton,si
+408,Birkeland,Mr. Hans Martin Monsen,M,21,3,7.775,Southampton,no
+409,Lefebre,Miss Ida,F,,3,25.4667,Southampton,no
+410,Sdycoff,Mr. Todor,M,,3,7.8958,Southampton,no
+411,Hart,Mr. Henry,M,,3,6.8583,Queenstown,no
+412,Minahan,Miss Daisy E,F,33,1,90,Queenstown,si
+413,Cunningham,Mr. Alfred Fleming,M,,2,0,Southampton,no
+414,Sundman,Mr. Johan Julian,M,44,3,7.925,Southampton,si
+415,Meek,Mrs. Thomas (Annie Louise Rowley),F,,3,8.05,Southampton,no
+416,Drew,Mrs. James Vivian (Lulu Thorne Christian),F,34,2,32.5,Southampton,si
+417,Silven,Miss Lyyli Karoliina,F,18,2,13,Southampton,si
+418,Matthews,Mr. William John,M,30,2,13,Southampton,no
+419,Van Impe,Miss Catharina,F,10,3,24.15,Southampton,no
+420,Gheorgheff,Mr. Stanio,M,,3,7.8958,Cherbourg,no
+421,Charters,Mr. David,M,21,3,7.7333,Queenstown,no
+422,Zimmerman,Mr. Leo,M,29,3,7.875,Southampton,no
+423,Danbom,Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren),F,28,3,14.4,Southampton,no
+424,Rosblom,Mr. Viktor Richard,M,18,3,20.2125,Southampton,no
+425,Wiseman,Mr. Phillippe,M,,3,7.25,Southampton,no
+426,Clarke,Mrs. Charles V (Ada Maria Winfield),F,28,2,26,Southampton,si
+427,Phillips," Miss Kate Florence (""Mrs Kate Louise Phillips Marshall"")",F,19,2,26,Southampton,si
+428,Flynn,Mr. James,M,,3,7.75,Queenstown,no
+429,Pickard,Mr. Berk (Berk Trembisky),M,32,3,8.05,Southampton,si
+430,Bjornstrom-Steffansson,Mr. Mauritz Hakan,M,28,1,26.55,Southampton,si
+431,Thorneycroft,Mrs. Percival (Florence Kate White),F,,3,16.1,Southampton,si
+432,Louch,Mrs. Charles Alexander (Alice Adelaide Slow),F,42,2,26,Southampton,si
+433,Kallio,Mr. Nikolai Erland,M,17,3,7.125,Southampton,no
+434,Silvey,Mr. William Baird,M,50,1,55.9,Southampton,no
+435,Carter,Miss Lucile Polk,F,14,1,120,Southampton,si
+436,Ford," Miss Doolina Margaret ""Daisy""",F,21,3,34.375,Southampton,no
+437,Richards,Mrs. Sidney (Emily Hocking),F,24,2,18.75,Southampton,si
+438,Fortune,Mr. Mark,M,64,1,263,Southampton,no
+439,Kvillner,Mr. Johan Henrik Johannesson,M,31,2,10.5,Southampton,no
+440,Hart,Mrs. Benjamin (Esther Ada Bloomfield),F,45,2,26.25,Southampton,si
+441,Hampe,Mr. Leon,M,20,3,9.5,Southampton,no
+442,Petterson,Mr. Johan Emil,M,25,3,7.775,Southampton,no
+443,Reynaldo,Ms. Encarnacion,F,28,2,13,Southampton,si
+444,Johannesen-Bratthammer,Mr. Bernt,M,,3,8.1125,Southampton,si
+445,Dodge,Master Washington,M,4,1,81.8583,Southampton,si
+446,Mellinger,Miss Madeleine Violet,F,13,2,19.5,Southampton,si
+447,Seward,Mr. Frederic Kimber,M,34,1,26.55,Southampton,si
+448,Baclini,Miss Marie Catherine,F,5,3,19.2583,Cherbourg,si
+449,Peuchen,Major. Arthur Godfrey,M,52,1,30.5,Southampton,si
+450,West,Mr. Edwy Arthur,M,36,2,27.75,Southampton,no
+451,Hagland,Mr. Ingvald Olai Olsen,M,,3,19.9667,Southampton,no
+452,Foreman,Mr. Benjamin Laventall,M,30,1,27.75,Cherbourg,no
+453,Goldenberg,Mr. Samuel L,M,49,1,89.1042,Cherbourg,si
+454,Peduzzi,Mr. Joseph,M,,3,8.05,Southampton,no
+455,Jalsevac,Mr. Ivan,M,29,3,7.8958,Cherbourg,si
+456,Millet,Mr. Francis Davis,M,65,1,26.55,Southampton,no
+457,Kenyon,Mrs. Frederick R (Marion),F,,1,51.8625,Southampton,si
+458,Toomey,Miss Ellen,F,50,2,10.5,Southampton,si
+459,O'Connor,Mr. Maurice,M,,3,7.75,Queenstown,no
+460,Anderson,Mr. Harry,M,48,1,26.55,Southampton,si
+461,Morley,Mr. William,M,34,3,8.05,Southampton,no
+462,Gee,Mr. Arthur H,M,47,1,38.5,Southampton,no
+463,Milling,Mr. Jacob Christian,M,48,2,13,Southampton,no
+464,Maisner,Mr. Simon,M,,3,8.05,Southampton,no
+465,Goncalves,Mr. Manuel Estanslas,M,38,3,7.05,Southampton,no
+466,Campbell,Mr. William,M,,2,0,Southampton,no
+467,Smart,Mr. John Montgomery,M,56,1,26.55,Southampton,no
+468,Scanlan,Mr. James,M,,3,7.725,Queenstown,no
+469,Baclini,Miss Helene Barbara,F,0.75,3,19.2583,Cherbourg,si
+470,Keefe,Mr. Arthur,M,,3,7.25,Southampton,no
+471,Cacic,Mr. Luka,M,38,3,8.6625,Southampton,no
+472,West,Mrs. Edwy Arthur (Ada Mary Worth),F,33,2,27.75,Southampton,si
+473,Jerwan,Mrs. Amin S (Marie Marthe Thuillard),F,23,2,13.7917,Cherbourg,si
+474,Strandberg,Miss Ida Sofia,F,22,3,9.8375,Southampton,no
+475,Clifford,Mr. George Quincy,M,,1,52,Southampton,no
+476,Renouf,Mr. Peter Henry,M,34,2,21,Southampton,no
+477,Braund,Mr. Lewis Richard,M,29,3,7.0458,Southampton,no
+478,Karlsson,Mr. Nils August,M,22,3,7.5208,Southampton,no
+479,Hirvonen,Miss Hildur E,F,2,3,12.2875,Southampton,si
+480,Goodwin,Master Harold Victor,M,9,3,46.9,Southampton,no
+481,Frost," Mr. Anthony Wood ""Archie""",M,,2,0,Southampton,no
+482,Rouse,Mr. Richard Henry,M,50,3,8.05,Southampton,no
+483,Turkula,Mrs. (Hedwig),F,63,3,9.5875,Southampton,si
+484,Bishop,Mr. Dickinson H,M,25,1,91.0792,Cherbourg,si
+485,Lefebre,Miss Jeannie,F,,3,25.4667,Southampton,no
+486,Hoyt,Mrs. Frederick Maxfield (Jane Anne Forby),F,35,1,90,Southampton,si
+487,Kent,Mr. Edward Austin,M,58,1,29.7,Cherbourg,no
+488,Somerton,Mr. Francis William,M,30,3,8.05,Southampton,no
+489,Coutts," Master Eden Leslie ""Neville""",M,9,3,15.9,Southampton,si
+490,Hagland,Mr. Konrad Mathias Reiersen,M,,3,19.9667,Southampton,no
+491,Windelov,Mr. Einar,M,21,3,7.25,Southampton,no
+492,Molson,Mr. Harry Markland,M,55,1,30.5,Southampton,no
+493,Artagaveytia,Mr. Ramon,M,71,1,49.5042,Cherbourg,no
+494,Stanley,Mr. Edward Roland,M,21,3,8.05,Southampton,no
+495,Yousseff,Mr. Gerious,M,,3,14.4583,Cherbourg,no
+496,Eustis,Miss Elizabeth Mussey,F,54,1,78.2667,Cherbourg,si
+497,Shellard,Mr. Frederick William,M,,3,15.1,Southampton,no
+498,Allison,Mrs. Hudson J C (Bessie Waldo Daniels),F,25,1,151.55,Southampton,no
+499,Svensson,Mr. Olof,M,24,3,7.7958,Southampton,no
